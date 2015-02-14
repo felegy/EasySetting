@@ -1,5 +1,7 @@
 # ASP.NET MVC 5 Template for Xamarin Studio
 
+<image src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" width="300">
+
 ![](http://cl.ly/image/0U3E3b260K3o/hanssens_aspnetmvc-for-osx.jpg)
 A fully working and clean ASP.NET MVC 5 project for Xamarin Studio. Purrs excellent on Mac OSX. 
 
@@ -10,8 +12,6 @@ A fully working and clean ASP.NET MVC 5 project for Xamarin Studio. Purrs excell
 * Can be run entirely from Xamarin Studio
 * Can be updated and extended through NuGet
 * It just works...
-
-Drop me a line if you like it [@jhanssens](https://twitter.com/jhanssens)!
 
 ## Known Issues
 Some known issues with ASP.NET MVC 5 and the current Mono version:
